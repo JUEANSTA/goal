@@ -1,0 +1,19 @@
+# AI Portfolio — Juan
+
+## Goal
+Dalam 6 bulan mahir menggunakan AI; dalam 6 bulan setelahnya (bulan 7–12) mendapatkan minimal 1 klien per bulan untuk jasa AI.
+
+## Tentang Saya
+Saya Juan, mahasiswa UPN Veteran Jawa Timur. Repo ini menyimpan catatan belajar, notebook, dan proyek AI yang saya kerjakan.
+
+## Struktur Repo
+- `practice/` : latihan harian (script Python)
+- `notebooks/` : Jupyter / Colab notebooks
+- `projects/` : proyek end-to-end
+- `README.md`, `GOAL.txt`
+
+## Day 1 — Checklist
+1. Tulis tujuan (GOAL.txt).  
+2. Siapkan environment (nanti).  
+3. Buat struktur folder & .gitignore (nanti).  
+4. Commit pertama: "Day 1: init repo, tambah README & GOAL".
