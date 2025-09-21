@@ -21,4 +21,5 @@ Saya Juan, mahasiswa UPN Veteran Jawa Timur. Tujuan repo ini adalah menyimpan ca
 4. Commit pertama: "Day 1: init repo, tambah README & goal".
 
 ## Kontak
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/JUEANSTA
+
